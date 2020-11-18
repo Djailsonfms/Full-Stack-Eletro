@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100%;
+    
+}
+
+#formas_pagamento{
+    color:red
+}
+.menu {
+    background-color: #ff0000;
+    padding: 20px;
+
+}
+.menu a {
+    color:white;
+    text-decoration: none;
+    text-align: left;
+    padding: 20px, 10px;
+    margin-right: 180px;   
+}
+#rodape {
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+footer{
+    margin-top: auto;
+}
+
+.preço{
+    color: red;
+}
+.categorias{
+    position: top;
+    font-size: 15px;
+    color: black;
+    display:inline-block;
+    vertical-align: bottom;
+    width: 20%;
+    height: 1000px;
+}
+.produtos{
+    display: inline-block;
+    width: 79%;
+    height: 1000px;
+    vertical-align: top;
+        
+}
+.box_produto{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 12px 0px 0px 32px ;
+}
+
+
